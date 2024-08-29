@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/NekozZa/To-Do-List-React-Only.git
